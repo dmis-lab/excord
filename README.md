@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img alt="ExCorD Overview" src="https://github.com/dmis-lab/excord/blob/master/images/ExCorD_overview.png" width="400px">
+  <img alt="ExCorD Overview" src="https://github.com/dmis-lab/excord/blob/main/images/ExCorD_overview.png" width="400px">
 </div>
 
 We present ExCorD for conversational question answering (CQA). You can train RoBERTa by using our framework, ExCorD, described in our [paper](https://aclanthology.org/2021.acl-long.478/). Once you train the model with ExCorD, you can easily evaluate it in the same way with that of common CQA models.
