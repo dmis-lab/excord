@@ -5,7 +5,7 @@
 </a>
 </h3>
 <div align="center">
-    <p><b>Ex</b>plicit Guidance on How to Resolve <b>Co</b>nve<b>r</n>sational <b>D</b>ependency
+    <p><b>Ex</b>plicit Guidance on How to Resolve <b>Co</b>nve<b>r</b>sational <b>D</b>ependency
 </div>
 
 <div align="center">
