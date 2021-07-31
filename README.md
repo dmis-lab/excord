@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img alt="ExCorD Overview" src="https://github.com/dmis-lab/excord/blob/master/images/ExCorD_overview" width="400px">
+  <img alt="ExCorD Overview" src="https://github.com/dmis-lab/excord/blob/master/images/ExCorD_overview.png" width="400px">
 </div>
 
 We present ExCorD for conversational question answering (CQA). You can train RoBERTa by using our framework, ExCorD, described in our [paper](https://aclanthology.org/2021.acl-long.478/). Once you train the model with ExCorD, you can easily evaluate it in the same way with that of common CQA models.
@@ -87,7 +87,7 @@ Results: {'F1': 67.23447159600119}
 ```
 
 ### Best Model
-[Best Model](https://drive.google.com/file/d/1Xf0-XUvGi7jgiAAdA5BQLk7p5ikc_wOl/view?usp=sharing)
+[Download here](https://drive.google.com/file/d/1Xf0-XUvGi7jgiAAdA5BQLk7p5ikc_wOl/view?usp=sharing)
 
 You can also download our best model and its predictions on `dev.json` from the above link.
 
