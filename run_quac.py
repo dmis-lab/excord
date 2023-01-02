@@ -767,7 +767,7 @@ def main():
         tokenizer._add_tokens(["<PH>"], special_tokens=True)
         tokenizer.placeholder_token = "<PH>"
         tokenizer.seed = args.seed
-        # model.resize_token_embeddings(len(tokenizer))
+        model.resize_token_embeddings(len(tokenizer))
 
         train_dataset = load_and_cache_examples(args, tokenizer, evaluate=False, output_examples=False)
         global_step, tr_loss = train(args, train_dataset, model, tokenizer)
